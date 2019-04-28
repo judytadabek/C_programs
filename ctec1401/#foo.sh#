@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo $FOO=BAR
+
+
+sh ./foo.sh

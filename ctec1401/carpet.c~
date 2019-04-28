@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main ()
+{
+	float len, wid, area;
+	area = len * wid;
+	
